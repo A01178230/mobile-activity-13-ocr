@@ -1,17 +1,18 @@
 //
-//  Mobile_Activity_13App.swift
+//  OCROnDeviceApp.swift
 //  Mobile Activity 13
 //
 //  Created by Guillermo Lira on 06/10/25.
 //
 
+
 import SwiftUI
 
 @main
-struct Mobile_Activity_13App: App {
+struct OCROnDeviceApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RootView()
         }
     }
 }
