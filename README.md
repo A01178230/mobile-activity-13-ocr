@@ -32,4 +32,8 @@ This project demonstrates how to use **Apple’s Vision framework** for **on-dev
 - Integrate **VisionKit** for real-time scanning
 
 ## 👤 Author
-José Manuel Sánchez – ITESM Mobile Activity 13
+José Manuel Sánchez
+Grecia Klarissa
+Guillermo Lira
+
+ITESM Mobile Activity 13
